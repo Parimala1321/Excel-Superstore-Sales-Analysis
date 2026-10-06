@@ -59,9 +59,9 @@ Superstore sales data with 9,994 order lines, 793 customers and orders from Janu
 ## ⬇️ Download
 
 <p align="center">
-  <a href="Superstore_Practice.xlsx?raw=true">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-Excel%20Workbook%20(.xlsx)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Download the Excel workbook">
+  <a href="Superstore-Sales-Analysis.xlsx?raw=true">
+    
   </a>
 </p>
 
-### [⬇️ Download the Excel Project](Superstore_Practice.xlsx?raw=true)
+### [⬇️ Download the Excel Project](Superstore-Sales-Analysis.xlsx?raw=true)
